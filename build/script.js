@@ -1,5 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+var PromptSync = require("prompt-sync");
+var prompt = PromptSync();
 var Customer = /** @class */ (function () {
     function Customer() {
     }
